@@ -4,12 +4,12 @@ Tic Tac Toe where two players have two different signs to put on a 3x3 grid, One
 
 Details:
 --------
-Program:     Tic-Tac-Toe 
-Variant:     3x3 Grid
-Language:    C(Standard - C18)
-Built-On-OS: Ubuntu 20.04
-Compiler:    gcc version 9.3.0 (Ubuntu 9.3.0-10ubuntu2)
-Evaluation:  MinMax Algorithm 
+#Program:     Tic-Tac-Toe 
+#Variant:     3x3 Grid
+#Language:    C(Standard - C18)
+#Built-On-OS: Ubuntu 20.04
+#Compiler:    gcc version 9.3.0 (Ubuntu 9.3.0-10ubuntu2)
+#Evaluation:  MinMax Algorithm 
 
 
 
